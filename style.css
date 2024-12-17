@@ -1,0 +1,17 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-size: 5rem;
+    color: cyan;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
+}
